@@ -1,0 +1,14 @@
+1. ek div banao us par jb mouse chale to picture pop ho jaye aur phir dafa ho jaye
+
+2.hamara mouse jab chl rha hai to kai baar chl rha hai jiski wajah se kai create ho jayenge aur wo hm nahi chahte
+  site me 8 aur hm move kr rhe to 190+
+
+3. Is problrm ko sort krne ke liye throtlling ka concept use hoga
+THROTLLING => KISI PERTICULAR CODE KE NUM OF EXECUTIONS KO KAM KAR DENA
+
+4. throtllingfunction google se laya hai 
+
+5. ab har baar ek div banao 
+   div ko absolute banao ek width and height do overflow hidden karo
+   and div ke andar image banao and us image ko neeche push kr do
+   image ko animated way me upar lao
